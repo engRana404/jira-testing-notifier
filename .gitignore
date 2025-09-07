@@ -1,0 +1,10 @@
+# Ignore Python cache and environment files
+*.pyc
+*.pyo
+*.pyd
+.env
+# Ignore VS Code settings
+.vscode/
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
